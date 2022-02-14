@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jason
+- 👀 I’m interested in coding, music, and traveling
+- 🌱 I’m currently learning pyhton language
+- 📫 How to reach me = @jasonnnnn.09
